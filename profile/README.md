@@ -9,3 +9,10 @@ Made with PHP and MySQL <br />
 <a align="center" href="https://github.com/g4o2-chat/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2-chat&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
 </a>
+
+## Dev
+<a href="https://github.com/maxhu787">Maxhu787</a> aka g4o2
+## Contributor
+<a href="https://github.com/PythonScratcher">PythonScratcher</a>
+## Testers
+<img src="https://raw.githubusercontent.com/g4o2-chat/.github/main/profile/testers.PNG">
