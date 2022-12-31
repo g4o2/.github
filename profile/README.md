@@ -21,6 +21,6 @@ Made with PHP and MySQL <br />
 ## Dev
 <a href="https://github.com/maxhu787">Maxhu787</a> aka g4o2
 ## Contributor
-<a href="https://github.com/PythonScratcher">PythonScratcher</a> exploit tester
-## Testers
+<a href="https://github.com/PythonScratcher">PythonScratcher</a> security tester
+## Beta Testers
 <img src="https://raw.githubusercontent.com/g4o2/.github/main/profile/testers.PNG">
