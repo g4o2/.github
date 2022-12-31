@@ -8,8 +8,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/g4o2-chat/PHP-SQL-Chat?color=blue) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/g4o2-chat/PHP-SQL-Chat) 
 
-Simple chat with accounts 👥 and profiles 👤 <br />
-Made with PHP and MySQL <br />
+Simple chat application made with php and sql <br />
 <a href="https://php-sql-chat.maxhu787.repl.co/index.php">https://php-sql-chat.maxhu787.repl.co</a>
 
 <img height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"><img  src="https://www.mysql.com/common/logos/powered-by-mysql-88x31-wob.png">
