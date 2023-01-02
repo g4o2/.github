@@ -16,6 +16,9 @@ Simple chat application made with php and sql <br />
 <a align="center" href="https://github.com/g4o2/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
 </a>
+<a align="center" href="https://github.com/g4o2/g4o2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=g4o2&theme=react&bg_color=0D1117"/>
+</a>
 
 ## Dev
 <a href="https://github.com/maxhu787">Maxhu787</a> aka g4o2
