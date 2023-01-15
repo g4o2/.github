@@ -4,8 +4,8 @@
 ![Issues](https://img.shields.io/github/issues/g4o2-chat/PHP-SQL-Chat?color=blue) 
 ![License](https://img.shields.io/github/license/g4o2-chat/PHP-SQL-Chat?color=blue) 
 [![Discord](https://img.shields.io/discord/936428193521487953?color=5865F2&label=Discord%20server&logo=Discord&logoColor=blue)](https://discord.com/invite/UxNjRrT6RY)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/g4o2-chat/PHP-SQL-Chat?label=Commits) 
-![GitHub last commit](https://img.shields.io/github/last-commit/g4o2-chat/PHP-SQL-Chat?color=blue) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/g4o2-chat/PHP-SQL-Chat?label=Commits&color=red) 
+![GitHub last commit](https://img.shields.io/github/last-commit/g4o2-chat/PHP-SQL-Chat?color=red) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/g4o2-chat/PHP-SQL-Chat) 
 
 Simple chat application made with php and sql <br />
@@ -16,13 +16,16 @@ Simple chat application made with php and sql <br />
 <a align="center" href="https://github.com/g4o2/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
 </a>
+<!--
 <a align="center" href="https://github.com/g4o2/g4o2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=g4o2&theme=react&bg_color=0D1117"/>
 </a>
+-->
 
 ## Dev
 <a href="https://github.com/maxhu787">Maxhu787</a> aka g4o2
-## Contributor
-<a href="https://github.com/PythonScratcher">PythonScratcher</a> security tester
+## Contributors
+<a href="https://github.com/PythonScratcher">PythonScratcher</a> security tester<br/>
+<a href="https://github.com">Oh? On bob?#8992</a> security tester
 ## Beta Testers
 <img src="https://raw.githubusercontent.com/g4o2/.github/main/profile/testers.PNG">
