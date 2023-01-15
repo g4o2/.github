@@ -25,7 +25,7 @@ Simple chat application made with php and sql <br />
 ## Dev
 <a href="https://github.com/maxhu787">Maxhu787</a> aka g4o2
 ## Contributors
-<a href="https://github.com/PythonScratcher">PythonScratcher</a> security tester<br/>
-<a href="https://github.com">Oh? On bob?#8992</a> security tester
+<a href="https://github.com/PythonScratcher">PythonScratcher</a> penetration testing<br/>
+<a href="https://github.com">Oh? On bob?#8992</a> penetration testing
 ## Beta Testers
 <img src="https://raw.githubusercontent.com/g4o2/.github/main/profile/testers.PNG">
