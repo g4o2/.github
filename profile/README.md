@@ -13,12 +13,12 @@
 
 <img height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"><img  src="https://www.mysql.com/common/logos/powered-by-mysql-88x31-wob.png">
 ## Frontend app
-<a align="center" href="https://github.com/g4o2/PHP-SQL-Chat">
+<a align="center" href="https://github.com/php-sql-chat/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
 </a>
 
 ## Backend api
-<a align="center" href="https://github.com/g4o2/g4o2-api">
+<a align="center" href="https://github.com/php-sql-chat/g4o2-api">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=g4o2-api&theme=react&bg_color=0D1117"/>
 </a>
 
