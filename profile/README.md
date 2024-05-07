@@ -12,24 +12,16 @@
 <a href="https://g4o2.idx.tw/">https://g4o2.idx.tw/</a>
 
 <img height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"><img  src="https://www.mysql.com/common/logos/powered-by-mysql-88x31-wob.png">
-## Frontend app
+## Frontend
 <a align="center" href="https://github.com/php-sql-chat/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=php-sql-chat&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
 </a>
 
-## Backend api
+## Backend
 <a align="center" href="https://github.com/php-sql-chat/g4o2-api">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=php-sql-chat&repo=g4o2-api&theme=react&bg_color=0D1117"/>
 </a>
 
-### Developers
-<a href="https://github.com/Maxhu787">Maxhu787</a> aka g4o2
-
-### Contributors
+### Devs
+<a href="https://github.com/Maxhu787">Maxhu787</a>
 <a href="https://github.com/PythonScratcher">PythonScratcher</a><br/>
-Oh? On bob?#8992 on <a href="https://discord.com">Discord</a>
-
-## 💰💰💰
-<a href="https://www.buymeacoffee.com/g4o2"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=g4o2&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a><br/>
-Ethereum <a href="ethereum:0x6E6E2561cCfBB0CE08Ed28516c34a278ec18d6D6">0x6E6E2561cCfBB0CE08Ed28516c34a278ec18d6D6</a><br/>
-Doge: <a href="doge:DQWHdcCVhJxkaNSpmqLUsDtfAS6PVGnThR">DQWHdcCVhJxkaNSpmqLUsDtfAS6PVGnThR</a>
