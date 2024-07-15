@@ -8,8 +8,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/g4o2-chat/PHP-SQL-Chat?color=red) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/g4o2/PHP-SQL-Chat) 
 
+<!--
 ## Live demo
 <a href="https://g4o2.idx.tw/">https://g4o2.idx.tw/</a>
+-->
 
 <img height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"><img  src="https://www.mysql.com/common/logos/powered-by-mysql-88x31-wob.png">
 ## Frontend
