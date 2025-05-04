@@ -13,16 +13,15 @@
 -->
 ### Made Using
 <img height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"><img  src="https://www.mysql.com/common/logos/powered-by-mysql-88x31-wob.png">
-### Frontend Repo
+### Frontend & Backend Repos
 <a align="center" href="https://github.com/g4o2/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
 </a>
 
-### Backend Repo
 <a align="center" href="https://github.com/g4o2/g4o2-api">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=g4o2-api&theme=react&bg_color=0D1117"/>
 </a>
 
 ### Developers
-<a href="https://github.com/Maxhu787">Maxhu787</a>
-<a href="https://github.com/PythonScratcher">PythonScratcher</a><br/>
+<kbd><a href="https://github.com/Maxhu787"><img height="40px" src="https://avatars.githubusercontent.com/u/103299803?v=4"/></a></kbd>
+<kbd><a href="https://github.com/PythonScratcher"><img height="40px" src="https://avatars.githubusercontent.com/u/81612672?v=4"/></a></kbd>
