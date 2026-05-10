@@ -11,15 +11,17 @@
 ## Live demo
 <a href="https://g4o2.idx.tw/">https://g4o2.idx.tw/</a>
 -->
-### Made Using
+### Made using
 <img height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"><img  src="https://www.mysql.com/common/logos/powered-by-mysql-88x31-wob.png">
-### Frontend & Backend Repos
+### Frontend & Backend repos
 <a align="center" href="https://github.com/g4o2/PHP-SQL-Chat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/> -->
+  https://github.com/g4o2/PHP-SQL-Chat
 </a>
-
+<br/>
 <a align="center" href="https://github.com/g4o2/g4o2-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=g4o2-api&theme=react&bg_color=0D1117"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=g4o2-api&theme=react&bg_color=0D1117"/> -->
+  https://github.com/g4o2/g4o2-api
 </a>
 
 ### Developers
