@@ -24,6 +24,5 @@
   https://github.com/g4o2/g4o2-api
 </a>
 
-### Developers
+### Developer
 <kbd><a href="https://github.com/Maxhu787"><img height="40px" src="https://avatars.githubusercontent.com/u/103299803?v=4"/></a></kbd>
-<kbd><a href="https://github.com/PythonScratcher"><img height="40px" src="https://avatars.githubusercontent.com/u/81612672?v=4"/></a></kbd>
